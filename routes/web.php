@@ -27,5 +27,6 @@ Route::get('/', function () {
 Route::get('/product_display', function () {
     return view('layouts.product_display');
 });
+ 
 
 
