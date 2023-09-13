@@ -1,0 +1,5 @@
+php artisan route:clear
+php artisan route:cach
+php artisan clear
+php artisan cach
+php artisan config
